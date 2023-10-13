@@ -7,22 +7,31 @@ The content and DIY EB1A offered on this website are for informational purposes 
 
 ## Table of Contents
 
-- [EB-1A Criteria](#eb-1a-criteria)
-- [Preparing the Petition Letter](#preparing-the-petition-letter)
-- [My Journey](#my-journey)
-- [Useful Resources](#useful-resources)
-- [Purchase My Petition Letter](#contact)
-
+- EB-1A Criteria
+- Preparing the Petition Letter
+- My Journey
+- Useful Resources
+- My Petition Letter
 
 ---
 
+
 ## EB-1A Criteria
 
-EB-1A, or Alien of Extraordinary Ability, has specific criteria for eligibility. Here are the primary points:
+The EB-1A visa category, designated for Aliens of Extraordinary Ability, is a highly coveted immigrant visa preference category for individuals who have demonstrated exceptional expertise and recognition in their respective fields. To qualify, applicants must provide evidence of an extraordinary ability in their discipline and be entering the U.S. to continue work in that area. An approved EB-1A petition may allow for priority in the green card application process. To establish extraordinary ability, applicants must meet at least 3 out of the 10 criteria set by the U.S. Citizenship and Immigration Services (USCIS):
 
-1. Criterion 1
-2. Criterion 2
-3. ... and so on (expand on each criterion as needed)
+1. **Receipt of nationally or internationally recognized prizes or awards for excellence in the field.**
+2. **Membership in associations that require outstanding achievements, judged by recognized national or international experts in the field.**
+3. **Published material about the alien in professional or major trade publications or other media.**
+4. **Participation, either individually or on a panel, as a judge of the work of others in the same or related field.**
+5. **Original scientific, scholarly, or artistic contributions of major significance in the field.**
+6. **Authorship of scholarly articles in professional journals or other major media.**
+7. **Display of the alien's work at artistic exhibitions or showcases in more than one country.**
+8. **Performance in a leading or critical role for organizations or establishments with a distinguished reputation.**
+9. **High salary or significantly high remuneration compared to others in the field.**
+10. **Commercial success in the performing arts, as evidenced by box office receipts or record, cassette, compact disk, or video sales.**
+
+Meeting these criteria does not guarantee visa approval, as the overall application is reviewed holistically by USCIS officers.
 
 ---
 
@@ -33,6 +42,7 @@ Crafting a compelling EB-1A petition letter is crucial. Here are some steps and 
 - **Introduction**: Describe your background briefly.
 - **Evidence**: Detail the evidence or documentation supporting each claim.
 - ... (expand on each section of the letter)
+
 
 ---
 
