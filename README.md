@@ -42,21 +42,17 @@ When applying for the **EB-1A (Extraordinary Ability)** category, the U.S. Citiz
 
 ### 1. Initial Criteria Evaluation
 
-In this initial step:
-- The USCIS evaluates the evidence submitted by the petitioner.
+In this initial step, the USCIS evaluates the evidence submitted by the petitioner:
 - The aim is to determine if the applicant meets at least three out of the ten established criteria for extraordinary ability. This can include evidence such as awards, published materials, and original contributions to the field.
 - Meeting three of the criteria does not guarantee approval but qualifies the petitioner for the next step.
 
 ### 2. Final Merits Determination
 
-Once past the initial evaluation:
-- The USCIS evaluates the entirety of the evidence to make a final determination about the applicant's extraordinary ability.
+After the preliminary assessment, USCIS delves deeper into the submitted evidence to conclusively judge the applicant's level of extraordinary ability:
 - This assessment determines if the evidence presented shows the applicant as someone among the small percentage who've risen to the top of their field.
-- The significance, caliber, and recognition associated with the evidence are scrutinized.
+- The beneficiary must demonstrate consistent acclaim on a national or international scale. It's not enough to have achieved this recognition in the past; it's vital to maintain this high level of acclaim over time.
 
-The introduction of this two-step approach ensures that both the quantity and quality of the evidence are adequately considered. It's possible for an applicant to satisfy criteria in the first step but still face denial in the second if the overall evidence doesn't sufficiently support a claim of extraordinary ability.
-
-For potential EB-1A petitioners, it's crucial to put forth a comprehensive case that not only addresses specific criteria but also clearly showcases the petitioner's significant achievements and standing in their field.
+The introduction of this two-step approach ensures that both the quantity and quality of the evidence are adequately considered. It's possible for an applicant to satisfy criteria in the first step but still face denial in the second if the overall evidence doesn't sufficiently support a claim of extraordinary ability. For potential EB-1A petitioners, it's crucial to put forth a comprehensive case that not only addresses specific criteria but also clearly showcases the petitioner's significant achievements and standing in their field.
 
 
 ---
