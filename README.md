@@ -93,7 +93,7 @@ If you're interested in my application materials, which include the I140, I907 f
 My petition letter does not contain information on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned, such as [Andrey Solovyev](#), [Razvan Marinescu](#), and [redclock](#). These sources offer valuable insights and templates for crafting effective support letters.
 
 
-Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone.
+Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone. After your order, please make sure to let us know which DIY package you need.
 - **Email**: easydiyeb1a@gmail.com
 - **PayPal**: easydiyeb1a@gmail.com
 
