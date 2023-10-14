@@ -73,11 +73,27 @@ There are numerous free EB-1A resources available online such as [Andrey Solovye
 ---
 
 
-## My Petition Letter
+## Petition Letter Packages
 
-If you interested in my application material, including I140, I907 forms, petition letter, statement of purpose, here are package options you can chose:
+If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Here are the details:
+
+### Package 1: Basic - 69 dollars
+- **Petition Letter**: A detailed petition letter highlighting the key aspects of the application.
+- **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
+
+### Package 2: Comprehensive - 79 dollars
+- **Petition Letter**: A detailed petition letter highlighting the key aspects of the application.
+- **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
+- **Form Examples** when you file those two forms, please remember to include two separate checks:
+  - **I-140 Form**: Example of a filled-out Immigrant Petition for Alien Worker form.
+  - **I-907 Form**: Example of a filled-out Request for Premium Processing Service form.
+- **Statement of Purpose**: Guidance on crafting a compelling statement of purpose for the application.
+
+### Note on Support Letters:
+My petition letter does not contain information on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned, such as [Andrey Solovyev](#), [Razvan Marinescu](#), and [redclock](#). These sources offer valuable insights and templates for crafting effective support letters.
 
 
+Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone.
 - **Email**: easydiyeb1a@gmail.com
 - **PayPal**: easydiyeb1a@gmail.com
 
