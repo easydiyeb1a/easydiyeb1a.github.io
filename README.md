@@ -7,10 +7,10 @@ The content and DIY EB1A offered on this website are for informational purposes 
 
 ## Table of Contents
 
-- EB-1A Criteria
-- Preparing the Petition Letter
-- My Journey
-- My Petition Letter
+- [EB-1A Criteria](#eb-1a-criteria)
+- [Preparing the Petition Letter](#preparing-the-petition-letter)
+- [My Journey](#my-journey)
+- [My Petition Letter Packages](#my-petition-letter-packages)
 
 ---
 
@@ -34,7 +34,7 @@ Meeting these criteria does not guarantee visa approval, as the overall applicat
 
 ---
 
-## Preparing the Petition Letter: EB-1A Two-Step Reviewing Process
+## Preparing the Petition Letter
 
 When applying for the **EB-1A (Extraordinary Ability)** category, the U.S. Citizenship and Immigration Services (USCIS) uses a two-step approach to evaluate the petitions. This approach ensures both a thorough and fair evaluation of each applicant's credentials and achievements.
 
@@ -71,7 +71,7 @@ There are numerous free EB-1A resources available online such as [Andrey Solovye
 ---
 
 
-## Petition Letter Packages
+## My Petition Letter Packages
 
 If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Here are the details:
 
