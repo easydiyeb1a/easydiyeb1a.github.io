@@ -66,7 +66,7 @@ In my journey toward the EB-1A application, I sought advice from several immigra
 1. Nobody understands my research as deeply as I do.
 2. Engaging an attorney can be expensive, and with my citation count (200+), there was a higher likelihood of receiving an RFE (Request for Additional Evidence).
 
-There are numerous free EB-1A resources available online such as [Andrey Solovyev](https://andreychemist.github.io/story/), [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/), and [redclock](https://drive.google.com/file/d/0B1RDNI9g7RfrRVAzR0E2SDM4dzQ/view?resourcekey=0-wv_WSdsdqvfNdQewEDA7OA). However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
+There are numerous free EB-1A resources available online such as [Andrey Solovyev](https://andreychemist.github.io/story/), [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/), and [redclock](https://github.com/easydiyeb1a/easydiyeb1a.github.io/blob/main/RedClock_EB1A_CL%2BPL.pdf). However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
 
 ---
 
@@ -88,7 +88,7 @@ If you're interested in my application materials, which include the I140, I907 f
 - **Statement of Purpose**: Guidance on crafting a compelling statement of purpose for the application.
 
 ### Note on Support Letters:
-My petition letter does not contain information on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned, such as [Andrey Solovyev](#), [Razvan Marinescu](#), and [redclock](#). These sources offer valuable insights and templates for crafting effective support letters.
+My petition letter does not contain information on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned, such as Andrey Solovyev, Razvan Marinescu, and redclock. These sources offer valuable insights and templates for crafting effective support letters.
 
 
 Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone. After your order, please make sure to let us know which DIY package you need.
