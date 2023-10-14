@@ -7,13 +7,26 @@ The content and DIY EB1A offered on this website are for informational purposes 
 
 ## Table of Contents
 
+- [My Journey](#my-journey)
 - [EB-1A Criteria](#eb-1a-criteria)
 - [Preparing the Petition Letter](#preparing-the-petition-letter)
-- [My Journey](#my-journey)
 - [My Petition Letter Packages](#my-petition-letter-packages)
 
 ---
 
+## My Journey
+
+I am a PhD student specialized a subfield of Artificial Intelligence, and therefore, my EB1A are filed without having the formal title of "Dr.". I applied for the EB-1A visa through the Texas Service Center, with premium processing (direct, not following up pp). My application was approved in 10 days. I have over 220 citations, 10 peer-reviewed publications and 40+ paper reviews. I gathered 6 recommendation letters: 1 from a dependent and 5 from independent sources. 
+
+### my preparation
+
+In my journey toward the EB-1A application, I sought advice from several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to pursue my EB-1A application independently for two main reasons:
+1. Nobody understands my research as deeply as I do.
+2. Engaging an attorney can be expensive, and with my citation count (200+), there was a higher likelihood of receiving an RFE (Request for Additional Evidence).
+
+There are numerous free EB-1A resources available online such as [Andrey Solovyev](https://andreychemist.github.io/story/), [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/), and [redclock](https://github.com/easydiyeb1a/easydiyeb1a.github.io/blob/main/RedClock_EB1A_CL%2BPL.pdf). However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
+
+---
 
 ## EB-1A Criteria
 
@@ -55,21 +68,6 @@ The introduction of this two-step approach ensures that both the quantity and qu
 
 
 ---
-
-## My Journey
-
-I am a PhD student specialized a subfield of Artificial Intelligence, and therefore, my EB1A are filed without having the formal title of "Dr.". I applied for the EB-1A visa through the Texas Service Center, with premium processing (direct, not following up pp). My application was approved in 10 days. I have over 220 citations, 10 peer-reviewed publications and 40+ paper reviews. I gathered 6 recommendation letters: 1 from a dependent and 5 from independent sources. 
-
-### my preparation
-
-In my journey toward the EB-1A application, I sought advice from several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to pursue my EB-1A application independently for two main reasons:
-1. Nobody understands my research as deeply as I do.
-2. Engaging an attorney can be expensive, and with my citation count (200+), there was a higher likelihood of receiving an RFE (Request for Additional Evidence).
-
-There are numerous free EB-1A resources available online such as [Andrey Solovyev](https://andreychemist.github.io/story/), [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/), and [redclock](https://github.com/easydiyeb1a/easydiyeb1a.github.io/blob/main/RedClock_EB1A_CL%2BPL.pdf). However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
-
----
-
 
 ## My Petition Letter Packages
 
