@@ -61,8 +61,6 @@ The introduction of this two-step approach ensures that both the quantity and qu
 I am a PhD student specialized a subfield of Artificial Intelligence, and therefore, my EB1A are filed without having the formal title of "Dr.". I applied for the EB-1A visa through the Texas Service Center, with premium processing (direct, not following up pp). My application was approved in 10 days. I have over 220 citations, 10 peer-reviewed publications and 40+ paper reviews. I gathered 6 recommendation letters: 1 from a dependent and 5 from independent sources. 
 
 ### my preparation
-There are plenty of eb1a free resource online: Andrey Solovyev (hyperlink), Razvan Marinescu (hyperlink), redclock (hyperlink). Since I do not hold as much citations are theirs, therefore I need to put more convincing evidence in my "original scientific and scholarly contributions of major significance", which is the most of reason for applicant to get a rfe or deny. Instead of using supporting letter to demonstate my research impacts, I used very detailed and specific examples in that section to showcase the importance of my research. I also paid a online diy package, but the information from the package can all be found online, and petition letter are not really helpful in my case. 
-
 
 In my journey toward the EB-1A application, I sought advice from several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to pursue my EB-1A application independently for two main reasons:
 1. Nobody understands my research as deeply as I do.
