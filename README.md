@@ -22,9 +22,9 @@ The EB-1A visa category, designated for Aliens of Extraordinary Ability, is a hi
 1. **Evidence of receipt of lesser nationally or internationally recognized prizes or awards for excellence.**
 2. **Evidence of your membership in associations in the field which demand outstanding achievement of their members.**
 3. **Evidence of published material about you in professional or major trade publications or other major media.**
-4. **Evidence that you have been asked to judge the work of others, either individually or on a panel.**
-5. **Evidence of your original scientific, scholarly, artistic, athletic, or business-related contributions of major significance to the field.**
-6. **Evidence of your authorship of scholarly articles in professional or major trade publications or other major media.**
+4. **Evidence that you have been asked to judge the work of others, either individually or on a panel.** (I claimed this)
+5. **Evidence of your original scientific, scholarly, artistic, athletic, or business-related contributions of major significance to the field.** (I claimed this)
+6. **Evidence of your authorship of scholarly articles in professional or major trade publications or other major media.** (I claimed this)
 7. **Evidence that your work has been displayed at artistic exhibitions or showcases.**
 8. **Evidence of your performance of a leading or critical role in distinguished organizations.**
 9. **Evidence that you command a high salary or other significantly high remuneration in relation to others in the field.**
