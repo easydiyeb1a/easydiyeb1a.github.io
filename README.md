@@ -85,6 +85,7 @@ If you're interested in my application materials, which include the I140, I907 f
 - **Form Examples** when you file those two forms, please remember to include two separate checks:
   - **I-140 Form**: Example of a filled-out Immigrant Petition for Alien Worker form.
   - **I-907 Form**: Example of a filled-out Request for Premium Processing Service form.
+  - **G-1145 Form**: You will get email notice when your application is received and passed.
 - **Statement of Purpose**: Guidance on crafting a compelling statement of purpose for the application.
 
 ### Note on Support Letters:
