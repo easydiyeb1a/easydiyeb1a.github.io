@@ -75,11 +75,11 @@ There are numerous free EB-1A resources available online such as [Andrey Solovye
 
 If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Here are the details:
 
-### Package 1: Basic - 69 dollars
+### Package 1: Basic - 99 dollars
 - **Petition Letter**: A detailed petition letter highlighting the key aspects of the application.
 - **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
 
-### Package 2: Comprehensive - 79 dollars
+### Package 2: Comprehensive - 109 dollars
 - **Petition Letter**: A detailed petition letter highlighting the key aspects of the application.
 - **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
 - **Form Examples** when you file those two forms, please remember to include two separate checks:
