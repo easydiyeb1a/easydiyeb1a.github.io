@@ -1,4 +1,3 @@
-I-140 Petition Letter for EB1 Extraordinary Ability (EB-1A) category
 
 ## Disclaimer
 
