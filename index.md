@@ -18,7 +18,7 @@ I am a PhD student specialized a subfield of Artificial Intelligence, and theref
 
 ### my preparation
 
-In my journey toward the EB-1A application, I sought advice from several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to pursue my EB-1A application independently for two main reasons:
+In my journey toward the EB-1A application, I sought advice from several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to work on my EB-1A application myself for two main reasons:
 1. Nobody understands my research as deeply as I do.
 2. Engaging an attorney can be expensive, and with my citation count (200+), there was a higher likelihood of receiving an RFE (Request for Additional Evidence).
 
@@ -82,7 +82,7 @@ If you're interested in my application materials, which include the I140, I907 f
   - **I-140 Form**: Example of a filled-out Immigrant Petition for Alien Worker form.
   - **I-907 Form**: Example of a filled-out Request for Premium Processing Service form.
   - **G-1145 Form**: You will get email notice when your application is received and passed.
-- **Statement of Purpose**: Guidance on crafting a compelling statement of purpose for the application.
+- **Statement of Purpose**: Similar to proposed endeavor.
 
 ### Note on Support Letters:
 My petition letter does not contain information on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned, such as Andrey Solovyev, Razvan Marinescu, and redclock. These sources offer valuable insights and templates for crafting effective support letters.
