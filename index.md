@@ -72,11 +72,11 @@ The introduction of this two-step approach ensures that both the quantity and qu
 If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Here are the details:
 
 ### Package 1: Basic - 89 dollars
-- **Petition Letter**: A detailed petition letter highlighting the key aspects of the application.
+- **Petition Letter**: The exact petition letter template I designed and used for my application.
 - **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
 
 ### Package 2: Comprehensive - 99 dollars
-- **Petition Letter**: A detailed petition letter highlighting the key aspects of the application.
+- **Petition Letter**: The exact petition letter template I designed and used for my application.
 - **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
 - **Form Examples** when you file those two forms, please remember to include two separate checks:
   - **I-140 Form**: Example of a filled-out Immigrant Petition for Alien Worker form.
