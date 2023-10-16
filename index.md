@@ -78,5 +78,7 @@ The introduction of this two-step approach ensures that both the quantity and qu
 
 ---
 
+<a href="https://info.flagcounter.com/FbQO"><img src="https://s11.flagcounter.com/count2/FbQO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
 **Footer**: 
 - Copyright © 2023, Gme Moon. All rights reserved.
