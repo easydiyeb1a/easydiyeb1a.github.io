@@ -6,9 +6,8 @@ The content and DIY EB1A offered on this website are for informational purposes 
 ## Table of Contents
 
 - [My Journey](#my-journey)
-- [EB-1A Criteria](#eb-1a-criteria)
-- [Preparing the Petition Letter](#preparing-the-petition-letter)
 - [My Petition Letter Packages](#my-petition-letter-packages)
+- [Preparing the Petition Letter](#preparing-the-petition-letter)
 
 ---
 
@@ -18,30 +17,43 @@ I am a PhD student specialized a subfield of Artificial Intelligence, and theref
 
 ### my preparation
 
-In my journey toward the EB-1A application, I sought advice from several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to work on my EB-1A application myself for two main reasons:
+Prior to apply for EB-1A application, I have consulted with several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to work on my EB-1A application myself for two main reasons:
 1. Nobody understands my research as deeply as I do.
 2. Engaging an attorney can be expensive, and with my citation count (200+), there was a higher likelihood of receiving an RFE (Request for Additional Evidence).
 
-There are numerous free EB-1A resources available online such as [Andrey Solovyev](https://andreychemist.github.io/story/), [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/), and [redclock](https://github.com/easydiyeb1a/easydiyeb1a.github.io/blob/main/RedClock_EB1A_CL%2BPL.pdf). However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
+I claimed three EB1A categories as below:
+4. **Evidence that you have been asked to judge the work of others, either individually or on a panel.**
+5. **Evidence of your original scientific, scholarly, artistic, athletic, or business-related contributions of major significance to the field.**
+6. **Evidence of your authorship of scholarly articles in professional or major trade publications or other major media.**
+
+There are numerous free EB-1A resources available online such as [Andrey Solovyev](https://andreychemist.github.io/story/), and [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/). However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
 
 ---
 
-## EB-1A Criteria
+## My Petition Letter Packages
 
-The EB-1A visa category, designated for Aliens of Extraordinary Ability, is a highly coveted immigrant visa preference category for individuals who have demonstrated exceptional expertise and recognition in their respective fields. To qualify, applicants must provide evidence of an extraordinary ability in their discipline and be entering the U.S. to continue work in that area. An approved EB-1A petition may allow for priority in the green card application process. To establish extraordinary ability, applicants must meet at least 3 out of the 10 criteria set by the U.S. Citizenship and Immigration Services (USCIS):
+If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Here are the details:
 
-1. **Evidence of receipt of lesser nationally or internationally recognized prizes or awards for excellence.**
-2. **Evidence of your membership in associations in the field which demand outstanding achievement of their members.**
-3. **Evidence of published material about you in professional or major trade publications or other major media.**
-4. **Evidence that you have been asked to judge the work of others, either individually or on a panel.** (I claimed this)
-5. **Evidence of your original scientific, scholarly, artistic, athletic, or business-related contributions of major significance to the field.** (I claimed this)
-6. **Evidence of your authorship of scholarly articles in professional or major trade publications or other major media.** (I claimed this)
-7. **Evidence that your work has been displayed at artistic exhibitions or showcases.**
-8. **Evidence of your performance of a leading or critical role in distinguished organizations.**
-9. **Evidence that you command a high salary or other significantly high remuneration in relation to others in the field.**
-10. **Evidence of your commercial successes in the performing arts.**
+### Package 1: Basic - 89 dollars
+- **Petition Letter**: The exact petition letter template I designed and used for my application.
+- **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
 
-Meeting these criteria does not guarantee visa approval, as the overall application is reviewed holistically by USCIS officers.
+### Package 2: Comprehensive - 99 dollars
+- **Petition Letter**: The exact petition letter template I designed and used for my application.
+- **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
+- **Form Examples** when you file those two forms, please remember to include two separate checks:
+  - **I-140 Form**: Example of a filled-out Immigrant Petition for Alien Worker form.
+  - **I-907 Form**: Example of a filled-out Request for Premium Processing Service form.
+  - **G-1145 Form**: You will get email notice when your application is received and passed.
+- **Statement of Purpose**: Stating your proposed endeavor.
+
+### Note on Support Letters:
+My petition letter does not contain details on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned. Also please note that some of the rfes from uscis stated that simply using supporting letters as evidence is not enough.
+
+
+Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone. After your order, please make sure to let us know which DIY package you need.
+- **Email**: easydiyeb1a@gmail.com
+- **PayPal**: easydiyeb1a@gmail.com
 
 ---
 
@@ -63,34 +75,6 @@ After the preliminary assessment, USCIS delves deeper into the submitted evidenc
 - The beneficiary must demonstrate consistent acclaim on a national or international scale. It's not enough to have achieved this recognition in the past; it's vital to maintain this high level of acclaim over time.
 
 The introduction of this two-step approach ensures that both the quantity and quality of the evidence are adequately considered. It's possible for an applicant to satisfy criteria in the first step but still face denial in the second if the overall evidence doesn't sufficiently support a claim of extraordinary ability. For potential EB-1A petitioners, it's crucial to put forth a comprehensive case that not only addresses specific criteria but also clearly showcases the petitioner's significant achievements and standing in their field.
-
-
----
-
-## My Petition Letter Packages
-
-If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Here are the details:
-
-### Package 1: Basic - 89 dollars
-- **Petition Letter**: The exact petition letter template I designed and used for my application.
-- **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
-
-### Package 2: Comprehensive - 99 dollars
-- **Petition Letter**: The exact petition letter template I designed and used for my application.
-- **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
-- **Form Examples** when you file those two forms, please remember to include two separate checks:
-  - **I-140 Form**: Example of a filled-out Immigrant Petition for Alien Worker form.
-  - **I-907 Form**: Example of a filled-out Request for Premium Processing Service form.
-  - **G-1145 Form**: You will get email notice when your application is received and passed.
-- **Statement of Purpose**: Similar to proposed endeavor.
-
-### Note on Support Letters:
-My petition letter does not contain information on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned, such as Andrey Solovyev, Razvan Marinescu, and redclock. These sources offer valuable insights and templates for crafting effective support letters.
-
-
-Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone. After your order, please make sure to let us know which DIY package you need.
-- **Email**: easydiyeb1a@gmail.com
-- **PayPal**: easydiyeb1a@gmail.com
 
 ---
 
