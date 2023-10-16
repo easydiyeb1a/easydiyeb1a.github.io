@@ -1,0 +1,33 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    
+    <!-- Google Analytics -->
+    {% if site.google_analytics %}
+    <!-- REPLACE BELOW WITH YOUR GOOGLE ANALYTICS SCRIPT -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N2SPX3T9MN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-N2SPX3T9MN');
+    </script>
+    <!-- END OF GOOGLE ANALYTICS SCRIPT -->
+    {% endif %}
+</head>
+
+<body>
+    {{ content }}
+</body>
+
+</html>
