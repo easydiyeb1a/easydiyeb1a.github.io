@@ -33,7 +33,7 @@ There are numerous free EB-1A resources available online such as [Andrey Solovye
 
 ## My Petition Letter Packages
 
-If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Here are the details:
+If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Please note that my packages do not contain support letters. Here are the details:
 
 ### Package 1: Basic - 89 dollars
 - **Petition Letter**: The exact petition letter template I designed and used for my application.
@@ -48,12 +48,11 @@ If you're interested in my application materials, which include the I140, I907 f
   - **G-1145 Form**: You will get email notice when your application is received and passed.
 - **Statement of Purpose**: Stating your proposed endeavor.
 
-### Note on Support Letters:
-My petition letter does not contain details on support letters. If you're looking for support letter templates, I recommend checking out the free resources I previously mentioned. Also please note that some of the rfes from uscis stated that simply using supporting letters as evidence is not enough.
 
-
-Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone. After your order, please make sure to let us know which DIY package you need.
+If you have any questions regarding the package, please send me an email. 
 - **Email**: easydiyeb1a@gmail.com
+
+Below are my email and PayPal details. After I receive your PayPal payment, I'll email you the petition letter package within 24 hours. However, it's often sooner, typically within 12 hours, depending on the timezone. After your order, please make sure to let me know which DIY package you need.
 - **PayPal**: easydiyeb1a@gmail.com
 
 ---
