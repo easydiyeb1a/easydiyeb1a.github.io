@@ -16,4 +16,4 @@ plugins:
 paypal_email: "easydiyeb1a@gmail.com"
 
 #Google Analytics
-google_analytics: G-Z86GQKS6JB  # your google analytics
+google_analytics: true
