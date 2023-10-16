@@ -8,7 +8,7 @@ url: "https://easydiyeb1a.github.io"
 exclude: README.md
 
 # Build settings
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
 
 # Additional details
 paypal_email: "easydiyeb1a@gmail.com"
