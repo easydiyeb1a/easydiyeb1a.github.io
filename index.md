@@ -17,7 +17,7 @@ The content and DIY EB1A offered on this website are for informational purposes 
 
 ## My Journey
 
-I am a PhD student specialized a subfield of Artificial Intelligence, and therefore, my EB1A are filed without having the formal title of "Dr.". I applied for the EB-1A visa through the Texas Service Center, with premium processing (direct, not following up pp). My application was approved in 10 days. I have over 220 citations, 10 peer-reviewed publications and 40+ paper reviews. I gathered 6 recommendation letters: 1 from a dependent and 5 from independent sources. 
+I am a PhD student specialized a subfield of Artificial Intelligence, and therefore, my EB1A are filed without having the formal title of "Dr.". I applied for the EB-1A visa through the Texas Service Center, with premium processing (direct, not following up pp). My application was approved in 10 days. I have over 220 citations (20 of those are from unpublished papers), 10 peer-reviewed publications and 40+ paper reviews. I gathered 6 recommendation letters: 1 from a dependent and 5 from independent sources. 
 
 ### my preparation
 
