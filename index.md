@@ -21,7 +21,7 @@ I am a PhD student specialized a subfield of Artificial Intelligence, and theref
 
 ### my preparation
 
-Prior to applying for EB-1A, I have consulted with several immigration attorneys. A majority of law firms recommended waiting until I amassed over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to work on my EB-1A application myself for two main reasons:
+Prior to applying for EB-1A, I have consulted with several immigration attorneys. A majority of law firms recommended waiting until I have over 500 citations before applying for EB-1A. Although I had filed my NIW with an attorney, I realized I had done 80% of the work on my own. Given this experience, I decided to work on my EB-1A application myself for two main reasons:
 1. Nobody understands my research as deeply as I do.
 2. Filing with an attorney can be expensive (5000~10000 dollars excluding application fee), and with my citation count (200+), there was a higher likelihood of receiving an RFE (Request for Additional Evidence).
 3. I have read through hundreds of EB1A materials, reviewed other people's applications, studied their EB1A stories, and analyzed EB1A RFE templates. I understand what the IO is looking for, and I know how to highlight my strengths in my petition letter even though my citation record is weak.
