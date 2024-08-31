@@ -31,26 +31,22 @@ I claimed three EB1A categories as below:
 5. **Evidence of your original scientific, scholarly, artistic, athletic, or business-related contributions of major significance to the field.**
 6. **Evidence of your authorship of scholarly articles in professional or major trade publications or other major media.**
 
-There are numerous free EB-1A resources available online such as [Andrey Solovyev](https://andreychemist.github.io/story/), and [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/). However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
+There are numerous free EB-1A resources available online. However, my case is a bit different from theirs because I do not hold such strong citation records. In my case, I focused on presenting robust evidence under the "original scientific and scholarly contributions of major significance" category. This category often determines if an applicant receives an RFE or denial. Instead of solely relying on support letters to illustrate the impact of my research, I provided detailed and specific examples to highlight its significance. While I also paid for a DIY service to get access to several other EB-1A petitions, I found that most of the information was readily available online, and the provided petition letters weren't particularly useful to my situation.
 
 ---
 
 ## My Petition Letter Packages
 
-If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose, I have two package options you can choose from. Please note that my packages do not contain support letters. Here are the details:
+If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose. Please note that my packages do not contain support letters. Here are the details:
 
-### Package 1 - 89 dollars
-- **Petition Letter**: The exact petition letter template I designed and used for my application.
+### Package 2 - 199 dollars
+- **Petition Letter**: My petition letter as template for eb1a application.
 - **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
-
-### Package 2 - 99 dollars
-- **Petition Letter**: The exact petition letter template I designed and used for my application.
-- **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
-- **Form Examples** when you file those two forms, please remember to include two separate checks:
+- **Form Examples**:
   - **I-140 Form**: Example of a filled-out Immigrant Petition for Alien Worker form.
   - **I-907 Form**: Example of a filled-out Request for Premium Processing Service form.
   - **G-1145 Form**: You will get email notice when your application is received and passed.
-- **Statement of Purpose**: Stating your proposed endeavor.
+- **Statement of Purpose**: Stating of my proposed endeavor.
 
 For those who have purchased the petition letter package from me, you will receive an additional preparation set. This set comprises:
 
