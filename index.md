@@ -39,7 +39,7 @@ There are numerous free EB-1A resources available online. However, my case is a 
 
 If you're interested in my application materials, which include the I140, I907 forms, petition letter, and statement of purpose. Please note that my packages do not contain support letters. Here are the details:
 
-### Package 2 - 199 dollars
+### My eb1a Package - 199 dollars
 - **Petition Letter**: My petition letter as template for eb1a application.
 - **List of Exhibits**: A comprehensive list of exhibits to accompany the petition letter.
 - **Form Examples**:
