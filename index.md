@@ -54,7 +54,7 @@ For those who have purchased the petition letter package from me, you will recei
 - **18 RFE (Request for Evidence) materials**.
 - **15 sample support letters**.
 
-**Note:** I did not utilize these resources for my own application as I discovered them after submitting mine. 
+**Note:** I did not utilize these resources for my own application as I discovered them after submitting mine. Those materails are indeed very useful for eb1a applications. 
 
 If you have any questions regarding the package, please send me an email. 
 - **Email**: easydiyeb1a@gmail.com
